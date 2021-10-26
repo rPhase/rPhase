@@ -10,7 +10,7 @@ I'm a developer with interests in web, mobile, and game development.
 - Key Skills: Object-Oriented Programming (OOP), Automation, Testing and Debugging, Critical Thinking and Analysis
 
 ### Languages
-English – Native
+English – Native  
 Japanese – Advanced
 
 <!--
