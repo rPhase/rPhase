@@ -5,8 +5,8 @@ I'm a developer with interests in web, mobile, and game development.
 ### Skills
 - Tools: Microsoft Windows, Git, WSL, Microsoft Office (Macro, Power Query), VS Code
 - Programming Languages: C/C++, C#, Python, Java, Visual Basic (VBA, VB6, VB.NET, Classic ASP)
-- Database: Oracle SQL, SQLite
-- Web Development: HTML, CSS, JavaScript, Bootstrap
+- Web Development: HTML, CSS, JavaScript, ReactJS
+- Database: Oracle SQL, SQLite, MongoDB
 - Key Skills: Object-Oriented Programming (OOP), Automation, Testing and Debugging, Critical Thinking and Analysis
 
 ### Languages
