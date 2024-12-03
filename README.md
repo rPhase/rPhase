@@ -5,10 +5,10 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&theme=onedark"
+    srcset="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&theme=aura&include_all_commits=true&count_private=true&hide=css,shaderlab,c"
     media="(prefers-color-scheme: dark)"
   />
-  <img align="right" src="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages" />
+  <img align="right" src="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&include_all_commits=true&count_private=true&hide=css,shaderlab,c" />
 </picture>
 
 - Tools: Microsoft Windows, Git, WSL, Microsoft Office (Macro, Power Query), VS Code
