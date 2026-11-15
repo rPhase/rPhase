@@ -5,7 +5,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&theme=aura&include_all_commits=true&count_private=true&hide=css%2Cshaderlab%2Cc"
+    srcset="https://github-stats-extended-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&theme=aura&include_all_commits=true&count_private=true&hide=css%2Cshaderlab%2Cc"
     media="(prefers-color-scheme: dark)"
   />
   <img align="right" src="https://github-readme-stats-rphase.vercel.app/api/top-langs/?username=rphase&layout=donut&custom_title=Repo+Languages&include_all_commits=true&count_private=true&hide=css%2Cshaderlab%2Cc" />
